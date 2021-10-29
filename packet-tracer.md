@@ -3,7 +3,7 @@
 ## Priveleged user - configure the switch 
 ```
 enable
-configure t
+config t
 ```
 ## See current configurations
 ```
